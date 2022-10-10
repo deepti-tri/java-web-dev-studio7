@@ -1,6 +1,6 @@
 package org.launchcode.studio7;
 
-public class CD {
+public class CD implements OpticalDisc{
 
     // TODO: Implement your custom interface.
 
